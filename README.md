@@ -19,6 +19,7 @@
 <br/>  
 
 ----
+## My Skill Set  
 <table><tr><div align="center"> <td valign="top" width="50%">
 
 
@@ -49,7 +50,7 @@
 
 ----
 ## Connect with me  
-<div align="left">
+<div align="center">
 <a href="https://github.com/analuz5" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
